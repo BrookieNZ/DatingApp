@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using API.Data;
 using API.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace API.Controllers
 {
